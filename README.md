@@ -50,4 +50,4 @@ Access the dashboard in your web browser at `http://localhost:8501`
 
 ### Data Source
 
-The Project uses E-Commerce Public Dataset from [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download) offered by [Dicoding](https://dicoding.com)
+The Project uses E-Commerce Public Dataset from [kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download).
