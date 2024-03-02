@@ -36,7 +36,7 @@ cd analytics_dicoding
 3. Install the required Python package by running:
 
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 ### Usage
